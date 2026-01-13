@@ -25,8 +25,9 @@ int main(){                           // Main function
 }
 
 
-//  iOUTPUT
+//  OUTPUT
 
 //  Roll no:1
 //  Roll no:2
 //  Roll no:3
+
